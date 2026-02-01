@@ -22,7 +22,7 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🤝 I’m looking for help with **Scaling full-stack applications and performance optimization.**
 
-- 👨‍💻 All of my projects are available at [https://pramod-portfolio.netlify.app](https://pramod-portfolio.netlify.app)
+- 👨‍💻 All of my projects are available at [(https://pramod-j-portfolio.netlify.app/)].
 
 - 💬 Ask me about **React, JavaScript, and frontend architecture.**
 
