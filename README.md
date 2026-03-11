@@ -1,4 +1,4 @@
-![MasterHead](thumb-1920-985381.jpg)
+![MasterHead](https://wall.alphacoders.com/big.php?i=985381)
 
 
 <h1 align="center">Hi 👋, I'm Pramod P Jalagekar</h1>
