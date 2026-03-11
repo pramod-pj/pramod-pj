@@ -1,4 +1,4 @@
-![MasterHead](985381.jpg)
+![MasterHead](C:\Users\pramo\Downloads\undefined - Imgur.gif)
 
 
 <h1 align="center">Hi 👋, I'm Pramod P Jalagekar</h1>
