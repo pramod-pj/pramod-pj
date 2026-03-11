@@ -1,4 +1,4 @@
-![MasterHead](https://www.nexilatechnologies.com/wp-content/uploads/2024/08/full-stack-developer-training.jpg)
+![MasterHead](thumb-1920-985381.jpg)
 
 
 <h1 align="center">Hi 👋, I'm Pramod P Jalagekar</h1>
