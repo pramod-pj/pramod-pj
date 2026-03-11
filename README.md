@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%" />
+![MasterHead](https://i.imgur.com/3ZQ3Z6L.gif)
 
 
 <h1 align="center">Hi 👋, I'm Pramod P Jalagekar</h1>
