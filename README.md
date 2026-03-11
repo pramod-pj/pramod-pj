@@ -1,4 +1,4 @@
-![MasterHead](C:\Users\pramo\Downloads\undefined - Imgur.gif)
+![MasterHead](<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%" />)
 
 
 <h1 align="center">Hi 👋, I'm Pramod P Jalagekar</h1>
