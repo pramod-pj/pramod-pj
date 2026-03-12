@@ -1,5 +1,6 @@
-![MasterHead](https://i.imgur.com/3ZQ3Z6L.gif)
-
+<p align="center">
+  <img src="./985381.jpg" alt="MasterHead" width="100%" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Pramod P Jalagekar</h1>
 
