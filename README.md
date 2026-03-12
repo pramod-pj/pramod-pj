@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.zdnet.com/a/img/resize/2b8716e0ffe3a549a3a6f6e596e15ce8677eca64/2018/10/18/580b4d43-4060-4d90-be23-1f97ef795e4e/github-logo.png?auto=webp&width=1280" width="100%" alt="MasterHead"/>
+  <img src="https://www.zdnet.com/a/img/resize/2b8716e0ffe3a549a3a6f6e596e15ce8677eca64/2018/10/18/580b4d43-4060-4d90-be23-1f97ef795e4e/github-logo.png?auto=webp&width=900" width="100%" alt="MasterHead"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Pramod P Jalagekar</h1>
