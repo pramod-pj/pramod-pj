@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/USERNAME/REPOSITORY/raw/main/985381.jpg" width="100%" alt="MasterHead">
+  <img src="https://github.com/pramod-pj/pramod-pj/raw/main/985381.jpg" width="100%" alt="MasterHead">
 </p>
 
 <h1 align="center">Hi 👋, I'm Pramod P Jalagekar</h1>
